@@ -10,6 +10,10 @@
 
 ![Most Hundreds by Country](plots/country_top_hundreds_chart.png)
 
-### Top 25 ODI Batsmen
+### Top 25 ODI Batsmen by Country
+
+![Top 25 ODI Batsmen](plots/top_scorers_country_chart.png)
+
+### Top 25 ODI Batsmen Analyzed
 
 ![Top 25 ODI Batsmen](plots/top_scorers_chart.png)
