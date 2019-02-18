@@ -25,3 +25,7 @@
 ### Top 25 Indian ODI Batsmen Analyzed
 
 ![Top 25 Indian ODI Batsmen](plots/india_top_chart.png)
+
+### Top 25 Bangladeshi ODI Batsmen Analyzed
+
+![Top 25 Indian ODI Batsmen](plots/bangladesh_top_chart.png)
