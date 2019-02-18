@@ -14,6 +14,10 @@
 
 ![Top 25 ODI Batsmen](plots/top_scorers_country_chart.png)
 
+### Top 25 ODI Batsmen Bubble
+
+![Top 25 ODI Batsmen Bubble](plots/chart_bubble_top.png)
+
 ### Top 25 ODI Batsmen Analyzed
 
 ![Top 25 ODI Batsmen](plots/top_scorers_chart.png)
