@@ -2,4 +2,6 @@
 
 ## Visualizing Cricket Data
 
-More Details to follow!
+### Top Scorers by Country
+
+![Top Scorers by Country](plots/country_top_scorers.png)
