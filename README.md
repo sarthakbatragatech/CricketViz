@@ -8,4 +8,4 @@
 
 ### Most Hundreds by Country
 
-![Most Hundreds by Country](plots/country_top_scorers_chart.png)
+![Most Hundreds by Country](plots/country_top_hundreds_chart.png)
